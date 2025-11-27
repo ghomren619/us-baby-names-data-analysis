@@ -1,3 +1,5 @@
+## WARNING: EXTRACT THE us_baby_name.zip and move the csv file to the parent folder
+
 # us-baby-names-data-analysis
 # Introduction to Data Analysis & Visualization with Python  
 ### Using the US Baby Names Dataset
@@ -27,6 +29,5 @@ By following the notebooks in this repository, you will learn how to:
 ###  Perform mini-data-science projects  
 
 ---
-
 
 
