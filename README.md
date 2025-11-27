@@ -1,4 +1,4 @@
-## WARNING: EXTRACT THE us_baby_name.zip and move the csv file to the parent folder
+## WARNING: EXTRACT THE us_baby_names.zip and move the csv file to the parent folder
 
 # us-baby-names-data-analysis
 # Introduction to Data Analysis & Visualization with Python  
